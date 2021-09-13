@@ -19,7 +19,7 @@ Linux için:
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen neyi değiştirmek istediğiniz için bir konu açınız.
 
 # License
- MIT
+[MIT](https://github.com/gulnisaslan/kodluyoruzilkrepo/blob/main/LICENSE)
  
 
 
